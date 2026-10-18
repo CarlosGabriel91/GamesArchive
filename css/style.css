@@ -1,0 +1,13 @@
+.card-img-top {
+    height: 300px;
+    object-fit: contain;
+}
+
+.carousel-item img {
+    height: 600px;
+    object-fit: contain;
+}
+
+body {
+    background-color: #f4efe6;
+}
