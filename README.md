@@ -2,11 +2,11 @@
 
 
 
-Site responsivo sobre a \*\*História dos Videogames\*\*, desenvolvido como atividade do curso de Análise e Desenvolvimento de Sistemas.
+Site responsivo sobre a **História dos Videogames**, desenvolvido como atividade do curso de Análise e Desenvolvimento de Sistemas.
 
 
 
-🔗 \*\*Site publicado:\*\* https://carlosgabriel91.github.io/GamesArchive/
+🔗 **Site publicado:** https://carlosgabriel91.github.io/GamesArchive/
 
 
 
@@ -18,15 +18,15 @@ O site GamesArchive tem o propósito de ser um arquivo online sobre consoles, jo
 
 ## Páginas
 
-- **Início (`index.html`):\*\* apresentação do tema com carrossel de destaques.
+- **Início (`index.html`):** apresentação do tema com carrossel de destaques.
 
-- **Sobre (`sobre.html`):\*\* contexto histórico usando o grid do Bootstrap.
+- **Sobre (`sobre.html`):** contexto histórico usando o grid do Bootstrap.
 
-- **Galeria (`galeria.html`):\*\* 18 consoles e jogos em cards, com modais de detalhes.
+- **Galeria (`galeria.html`):** 18 consoles e jogos em cards, com modais de detalhes.
 
-- **Dados (`dados.html`):\*\* tabela comparativa de consoles e acordeão de curiosidades.
+- **Dados (`dados.html`):** tabela comparativa de consoles e acordeão de curiosidades.
 
-- **Contato (`contato.html`):\*\* formulário com campos do Bootstrap.
+- **Contato (`contato.html`):** formulário com campos do Bootstrap.
 
 
 
