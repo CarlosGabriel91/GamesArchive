@@ -48,7 +48,6 @@ O site GamesArchive tem o propósito de ser um arquivo online sobre consoles, jo
 📦 História dos Videogames AT4
  ┣ 📂 css/
  ┣ 📂 image/
- ┣ 📂 js/
  ┣ 📄 contato.html
  ┣ 📄 dados.html
  ┣ 📄 galeria.html
